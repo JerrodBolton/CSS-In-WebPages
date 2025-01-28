@@ -2,7 +2,7 @@
 
     property: value;
 } */
- 
+
 /* For the body properties
 background-color - set a background color you like
 color - set the text color you like
@@ -40,6 +40,9 @@ footer {
 
 #memeImage{
   margin-right: 200px;
+  margin-left: auto;
+  width: 700px;
+  height: 700px;
 }
 
 header {
